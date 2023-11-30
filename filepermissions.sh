@@ -5,7 +5,7 @@
 # Date of Lastest revision:       11/29/2023
 # Purpose:                        Altering file permissions
 # Execution:                      filepermissions.sh  
-# Additional Sources:                   
+# Additional Sources:             https://chat.openai.com/share/21d7ba83-bb85-47db-8cf0-d84435049556      
 
 # Declaration of variables
 
