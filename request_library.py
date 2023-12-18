@@ -1,6 +1,6 @@
 # Script Name:                    Python Request 
 # Author:                         Kevin Williams
-# Date of Lastest revision:       12/17/2023
+# Date of Lastest revision:       12/12/2023
 # Purpose:                        Using psutil to fetch system information
 # Additional Sources:            https://chat.openai.com/share/4ba38dda-fbf4-4e5f-bc66-f2302d818fe5
 
